@@ -11,12 +11,13 @@ This skill does not write the post. It produces a structural plan with instructi
 
 ## Inputs
 
-Two are required. If either is missing, ask for it before proceeding:
+**Target keyword** — required. Decided upstream by keyword research. Do not substitute a keyword you think is better; if you spot a problem with it, flag it in the output and continue.
 
-- **Target keyword** — decided upstream by keyword research. Do not substitute a keyword you think is better; if you spot a problem with it, flag it in the output and continue.
-- **Word count** — governs how many headings the outline can support. A 1,000-word post with 30 headings is worthless; every section ends up surface-level.
+**Word count** — ask for it, but do not block on it. If nobody supplies a figure, derive one from the average length of the pages currently ranking and state clearly in the output that you did so, and what the average was. Word count governs how many headings the outline can support: a 1,000-word post with 30 headings is worthless, because every section ends up surface-level.
 
-Optional but valuable if offered: ICP / brand notes, founder or SME notes with a specific take, internal links to include, and the CTA the post should land on.
+**ICP / brand notes** — effectively required for step 6. Without knowing who the brand serves and what it knows that others don't, the "unique angle" degrades into a generic content gap that any competitor could also fill. If these notes aren't available, produce the brief anyway but say plainly in the output that the angle is provisional and needs brand input before it goes to a writer.
+
+Genuinely optional, but valuable if offered: founder or SME notes with a specific take, internal links to include, and the CTA the post should land on.
 
 ## Process
 
@@ -27,6 +28,12 @@ Search the target keyword and read the top 10 organic results properly — not t
 For each page capture: the H1, the full heading hierarchy, the sub-topics covered, the apparent publish or update date, and anything conspicuously common across pages.
 
 Recurring elements across ranking pages are signal, not coincidence. If five of the top ten organise around a numbered list of ideas, that structure is part of why they rank.
+
+**Also record what else occupies the SERP besides ordinary articles.** Image packs, video results, Pinterest boards, YouTube, forums, or a People Also Ask block are all ranking signals about what the searcher wants delivered.
+
+Pinterest or an image pack on page one means the query carries **visual intent** — people want to see the thing, not read about it. A text-first post underperforms on those keywords no matter how well structured. When you see this, say so explicitly in the output and flag it for the design team: the post needs substantial original imagery with real alt text, and that requirement needs to be known before the writer starts, not after.
+
+Video results suggest demonstration intent; heavy forum presence suggests the searcher wants candid experience rather than a polished guide. Note whichever applies and let it shape the recommendation.
 
 ### 2. Pull the data layer
 
@@ -74,6 +81,8 @@ Conversion sits inside ICP fit and UX: the post should lead somewhere without be
 
 The core failure mode is a competent rehash of the top ten. Take the ranking factors and structural patterns that are working, but the outline must also carry something the existing results don't have.
 
+A real angle almost always comes from the brand's own position — what this client sees that the generalist publishers writing the ranking pages do not. A gap you can spot from the SERP alone ("nobody covers X") is a weaker angle, because any competitor reading the same SERP can spot it too. Use the ICP and brand notes here; if you don't have them, name the angle as provisional rather than presenting a generic gap as a differentiator.
+
 Where that angle should come from the writer's own experience or the client's data, do not invent it. Mark the place and say what kind of input belongs there — for example: "Writer: insert a concrete example from a real classroom setup here; the ranking pages are all generic."
 
 Never fabricate statistics, case studies, quotes, or client results to fill this gap.
@@ -92,7 +101,9 @@ Use this structure:
 ## Intent analysis
 [What the SERP shows and the evidence for the three intent calls. Note
 any page ranking on backlinks rather than merit, and any reason this
-keyword may be a poor fit for the intended content type.]
+keyword may be a poor fit for the intended content type. Call out
+SERP features — image packs, Pinterest, video, forums — and what they
+imply about how this post needs to be delivered.]
 
 ## Competitive picture
 [What the top results have in common, where the gaps are, what to beat.]
