@@ -166,7 +166,9 @@ Two habits make review fast: give the reasoning inline so a reviewer can disagre
 
 ### Where the brief goes next
 
-The reviewer transfers the approved outline into the Surfer SEO content editor, which is what the writer actually opens. Surfer holds the meta description, the heading structure, and the bullets under each heading — nothing else survives the transfer.
+The SEO team transfers the approved outline into the Surfer SEO content editor, which is what the writer opens. Surfer holds the meta description, the heading structure, and the bullets under each heading — nothing else survives the transfer.
+
+The writer does the on-page optimisation inside Surfer, for both search and AI. So this brief supplies structure, intent and narrative direction, and does not chase term counts or Surfer's content score. Naming where a secondary keyword belongs is useful; specifying how many times to use it is not, and it takes control away from the person the tool is built for.
 
 So the parts of the brief that reach the writer are the meta description, the headings, and the instructional bullets. The intent analysis, competitive picture and sequencing rationale are for the reviewer, and should be written for that reader — the case for the outline, argued well enough to be overruled on specifics.
 
