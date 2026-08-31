@@ -45,6 +45,10 @@ For each page capture: the H1, the full heading hierarchy, the sub-topics covere
 
 Recurring elements across ranking pages are signal, not coincidence. If five of the top ten organise around a numbered list of ideas, that structure is part of why they rank.
 
+Read the SERP again here even though keyword research already looked at it. Google moves the results between the two steps, and the intent call is only as current as the day it was made.
+
+**Mine the People Also Ask box.** Expand the questions — each one reveals more — and collect what comes back. These are questions searchers demonstrably ask, and they are outline material, not just context. Weave most of them into the relevant sections and hold a few back for an FAQ block, which is also the format AI answer engines lift from most readily. Check the related searches at the bottom of the page too; they are often thin, and worth thirty seconds to find out.
+
 **Also record what else occupies the SERP besides ordinary articles.** Image packs, video results, Pinterest boards, YouTube, forums, or a People Also Ask block are all ranking signals about what the searcher wants delivered.
 
 Pinterest or an image pack on page one means the query carries **visual intent** — people want to see the thing, not read about it. A text-first post underperforms on those keywords no matter how well structured. When you see this, say so explicitly in the output and flag it for the design team: the post needs substantial original imagery with real alt text, and that requirement needs to be known before the writer starts, not after.
@@ -86,6 +90,12 @@ Sequence matters as much as coverage. Order sections so each one earns the next,
 Apply the reverse pyramid: if the keyword poses a question, answer it near the top, in plain terms, before elaborating. Skimmers and AI answer engines both take the answer from there.
 
 Under each heading write **instructional bullets** — what the writer should cover and why it matters. Not prose, not draft sentences. The writers are subject experts; they need direction and narrative intent, not words put in their mouths.
+
+Write the headings in the brand's own words, carrying the primary keyword and its related phrases naturally. Never lift a competitor's heading verbatim.
+
+Surfer's Outline tab will auto-aggregate headings from the ranking pages. It is a source of ideas and nothing more: taken wholesale it produces a pile of other people's headings that do not flow, which is the failure this whole step exists to prevent. The sequence has to be reasoned.
+
+The working title makes a promise, and the outline has to deliver on it. Once the title is set, check every section against it — anything that doesn't serve the promise is either cut or the title is wrong.
 
 See `references/outline-format.md` for the exact shape and a worked example.
 
@@ -156,6 +166,11 @@ sets up, and why the answer sits where it does.]
 ## Secondary keywords
 [Terms with a natural placement — FAQ, intro, a given section.
 Placement, not density targets.]
+
+## Writer brief
+[Six to eight lines for Surfer's notes field. The objective of the post,
+who it is for, the promise the title makes, and anything the writer
+must not miss. Written to the writer, not about them.]
 ```
 
 ## Handing off
@@ -170,7 +185,11 @@ The SEO team transfers the approved outline into the Surfer SEO content editor, 
 
 The writer does the on-page optimisation inside Surfer, for both search and AI. So this brief supplies structure, intent and narrative direction, and does not chase term counts or Surfer's content score. Naming where a secondary keyword belongs is useful; specifying how many times to use it is not, and it takes control away from the person the tool is built for.
 
-So the parts of the brief that reach the writer are the meta description, the headings, and the instructional bullets. The intent analysis, competitive picture and sequencing rationale are for the reviewer, and should be written for that reader — the case for the outline, argued well enough to be overruled on specifics.
+Surfer also has a notes field in its settings, and the house SOP puts a short written brief there — the objective of the post and anything the writer must not miss. Supply that as a separate short block at the end of the output, headed **Writer brief**, so it can be pasted straight in. Six or eight lines, not a document.
+
+So the parts that reach the writer are the meta description, the headings, the instructional bullets, and that note. The intent analysis, competitive picture and sequencing rationale are for the reviewer, and should be written for that reader — the case for the outline, argued well enough to be overruled on specifics.
+
+Delivery, per the SOP: the Surfer share link goes to the content Monday board, where a content manager assigns a writer.
 
 Keep the outline block clean enough to transfer heading by heading without rewriting. Do not fold reasoning into a heading, and do not leave a heading whose bullets are empty.
 
