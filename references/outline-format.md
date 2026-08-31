@@ -21,7 +21,15 @@ Note what the right version does: it establishes *why the section exists*, gives
 
 Roughly one H2 per 250–350 words of target length, with H3s nested underneath where a topic genuinely splits. A 1,500-word post supports about four or five H2s with sub-points. Going far beyond that produces a brief that looks thorough and reads thin.
 
+**Listicles are the exception, and it is a large one.** When the SERP wants a numbered collection, each item is its own heading and the ratio does not apply — a ranking "ultimate list" post routinely carries fifteen or more H2s at a length the rule would cap at five. Verified against a live SERP: the #8 result for "diy homeschool room ideas" runs fourteen H2s and nine H3s.
+
+The underlying constraint is not heading count, it is words per heading. An argument-led post needs enough room under each heading to make a case; a listicle needs one good idea and an image. Judge the format first, then calibrate depth to it.
+
 ## Worked example (abbreviated)
+
+The client and topic below are illustrative. What transfers is the shape — the
+header block, the heading hierarchy, and the bullets. Nothing about this
+example's subject matter should influence a brief for a different client.
 
 ```
 # Content Brief: montessori vs traditional education
@@ -29,6 +37,10 @@ Roughly one H2 per 250–350 words of target length, with H3s nested underneath 
 **Target keyword:** montessori vs traditional education
 **Word count:** 1,800
 **Search intent:** Blog post / Comparison / Parent choosing a school
+**Working title (H1):** Montessori vs Traditional Education: What's Actually
+Different and Why It Matters
+**Meta description:** Montessori and traditional classrooms differ in more
+than layout. A parent's guide to how each approach teaches — and how to choose.
 
 ## Recommended outline
 
